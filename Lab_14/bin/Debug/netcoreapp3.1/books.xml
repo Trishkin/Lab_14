@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<ArrayOfTextbook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Textbook>
+    <Author>Me</Author>
+    <Publisher>You</Publisher>
+    <NameOfBook>LiveForEver</NameOfBook>
+    <Age>2012</Age>
+    <Price>12.18</Price>
+    <Subject>Math</Subject>
+  </Textbook>
+  <Textbook>
+    <Author>Me</Author>
+    <Publisher>You</Publisher>
+    <NameOfBook>PolniiDen</NameOfBook>
+    <Age>2012</Age>
+    <Price>12.18</Price>
+    <Subject>Math</Subject>
+  </Textbook>
+  <Textbook>
+    <Author>Me</Author>
+    <Publisher>You</Publisher>
+    <NameOfBook>PolniiDen</NameOfBook>
+    <Age>2012</Age>
+    <Price>12.18</Price>
+    <Subject>Math</Subject>
+  </Textbook>
+  <Textbook>
+    <Author>Me</Author>
+    <Publisher>You</Publisher>
+    <NameOfBook>PolniiDen</NameOfBook>
+    <Age>2012</Age>
+    <Price>12.18</Price>
+    <Subject>Math</Subject>
+  </Textbook>
+</ArrayOfTextbook>
